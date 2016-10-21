@@ -1,0 +1,19 @@
+{
+  "name": "ng2-choice",
+  "version": "1.0.0",
+  "description": "Angular 2 form control directive to choose one or multiple items with autocomplete.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaccurso/ng2-choice.git"
+  },
+  "author": "aaccurso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaccurso/ng2-choice/issues"
+  },
+  "homepage": "https://github.com/aaccurso/ng2-choice#readme"
+}
